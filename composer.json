@@ -23,7 +23,7 @@
         "drupal/core-composer-scaffold": "10.6.20",
         "drupal/core-project-message": "10.6.20",
         "drupal/core-recommended": "10.6.20",
-        "drupal/lagoon_logs": "3.0.1",
+        "drupal/lagoon_logs": "3.1.0",
         "drush/drush": "13.8.0"
     },
     "conflict": {
